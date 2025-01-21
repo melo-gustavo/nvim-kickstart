@@ -43,6 +43,6 @@ Follow these steps to install and configure Neovim with this repository:
 
 ## Documentation
 
-1. You can find all the keys that open in the core/keymaps.lua file.
+1. You can find all the keys that open in the "lua/core/keymaps.lua" file
 
 2. Space is the main key in Neovim
