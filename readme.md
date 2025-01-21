@@ -35,6 +35,14 @@ Follow these steps to install and configure Neovim with this repository:
       nvim
       ```
       
-   3. Await install plugins
+   3. Await install plugins and press "q" for GUI quit
   
 4. **Use your Neovim**
+
+---
+
+## Documentation
+
+1. You can find all the keys that open in the core/keymaps.lua file.
+
+2. Space is the main key in Neovim
