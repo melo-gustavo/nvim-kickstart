@@ -22,12 +22,12 @@ Follow these steps to install and configure Neovim with this repository:
    sudo snap install nvim --classic
    ```
 
-2. ** Clone repository**
+2. **Clone repository**
   ```bash
   git clone https://github.com/melo-gustavo/nvim-kickstart.git ~/.config/nvim
   ```
 
-3. ** Start Neovim **
+3. **Start Neovim**
    1. Open your terminal
 
    2. Run command
@@ -37,4 +37,4 @@ Follow these steps to install and configure Neovim with this repository:
       
    3. Await install plugins
   
-4. ** Use your Neovim **
+4. **Use your Neovim**
